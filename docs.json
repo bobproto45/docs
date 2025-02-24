@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides 000",
+        "tab": "Guides 00 123123 12312 0",
         "groups": [
           {
             "group": "Get Started",
@@ -22,7 +22,7 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Essentials 12312",
             "pages": [
               "essentials/markdown",
               "essentials/code",
